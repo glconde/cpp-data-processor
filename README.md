@@ -1,14 +1,16 @@
-# C++ Data Processing Utility
+# \## Purpose
 
-This project simulates basic data processing workflows similar to those used in engineering and inspection systems.
+# This project was created to refresh my C++ fundamentals, focusing on file I/O, STL containers, and basic data processing logic.
 
-## Features
+# 
 
-* Reads numeric data from a file
-* Computes average, min, and max
-* Demonstrates use of vector and basic parsing
+# \## Concepts Used
 
-## How to Run
+# \- File handling (ifstream)
 
-* Compile and run in Visual Studio or g++
+# \- STL containers (vector)
+
+# \- Basic parsing using stringstream
+
+# \- Modular function design
 
