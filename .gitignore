@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# C++ compiled files
+*.obj
+*.o
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
